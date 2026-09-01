@@ -38,6 +38,6 @@ It helped me understand that design choices can say something about who we are w
 ### 🖼️ My Outputs
 <p align="center">
 <img width="45%" src="https://github.com/user-attachments/assets/f659323f-43a2-4e0e-a205-726050b55db5" />
-<img width="2000" height="1545" alt="2" src="https://github.com/user-attachments/assets/e9d0eb6a-c0e2-4def-b863-996811630cb9" />
-<img width="2000" height="1545" alt="3" src="https://github.com/user-attachments/assets/756dddd7-1cb8-4a58-930e-f285d5005b33" />
-<img width="2000" height="1545" alt="4" src="https://github.com/user-attachments/assets/abc0b675-ddd8-40b5-bf28-2ce403244c12" />
+<img width="45%" src="https://github.com/user-attachments/assets/e9d0eb6a-c0e2-4def-b863-996811630cb9" />
+<img width="45%" src="https://github.com/user-attachments/assets/756dddd7-1cb8-4a58-930e-f285d5005b33" />
+<img width="45%" src="https://github.com/user-attachments/assets/abc0b675-ddd8-40b5-bf28-2ce403244c12" />
