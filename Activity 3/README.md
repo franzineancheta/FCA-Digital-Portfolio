@@ -26,4 +26,4 @@ This activity taught me that visual design can also be used for **education and 
 A well-designed infographic can make an important topic easier to understand and encourage people to pay attention to the message.
 
 ### 🖼️ My Output
-<img width="70%" "ACTIVITY 3 - GE 4120_ANCHETA" src="https://github.com/user-attachments/assets/8713718f-7475-464d-b30d-59f3cff531f4" />
+<img width="800" height="2000" alt="ACTIVITY 3 - GE 4120_ANCHETA" src="https://github.com/user-attachments/assets/010a4888-0ab4-4a0f-96cb-6a3e06875925" />
