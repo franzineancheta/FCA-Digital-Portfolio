@@ -6,7 +6,7 @@
 
 Hi! I'm Franzine or **Chin**! ♡
 
-Welcome to my little digital space where I showcase my **activities, creative outputs, and learning experiences** throughout the prelim period.
+Welcome to my little digital space where I showcase my **activities, creative outputs, and learning experiences** throughout my GE 4120 journey.
 
 Through this portfolio, I share my journey in exploring **presentation design, colors, typography, and visual communication**. Each activity reflects my creativity, ideas, and the things I learned along the way.
 
