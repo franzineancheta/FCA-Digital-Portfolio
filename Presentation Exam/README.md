@@ -1,4 +1,3 @@
-[Google Drive.pdf](https://github.com/user-attachments/files/33647788/Google.Drive.pdf)
 <div align="center">
 
 # ⋆. 𐙚˚࿔ GROUP PRESENTATION 𝜗𝜚˚⋆
@@ -23,4 +22,6 @@ Our presentation discusses how Google Drive helps users store, organize, access,
 
 </div>
 
-[₊˚⊹♡ Click here to view our presentation ♡⊹˚₊](google-drive-presentation.pdf)
+[₊˚⊹♡ Click here to view our presentation ♡⊹˚₊]
+[Google Drive.pdf](https://github.com/user-attachments/files/33647849/Google.Drive.pdf)
+
