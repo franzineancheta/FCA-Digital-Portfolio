@@ -1,3 +1,4 @@
+[Google Drive.pdf](https://github.com/user-attachments/files/33647788/Google.Drive.pdf)
 <div align="center">
 
 # ⋆. 𐙚˚࿔ GROUP PRESENTATION 𝜗𝜚˚⋆
