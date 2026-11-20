@@ -48,18 +48,11 @@ Through this activity, I learned more about the importance and usefulness of clo
 <div align="center">
 
 <img width="2000" height="1125" alt="slide-01" src="https://github.com/user-attachments/assets/2bbaaf72-879f-412e-a5e1-7f8fefb88f70" />
-" width="100%" />
 <img width="2000" height="1125" alt="slide-02" src="https://github.com/user-attachments/assets/26341d67-fd7c-4687-8873-313f76e6b91b" />
-" width="100%" />
 <img width="2000" height="1125" alt="slide-03" src="https://github.com/user-attachments/assets/a5a320a9-b5c4-4584-8fae-6115c54bfc5b" />
-" width="100%" />
 <img width="2000" height="1125" alt="slide-04" src="https://github.com/user-attachments/assets/3da8edfa-c3ca-4fc4-9a74-77cbf62faab6" />
-" width="100%" />
 <img width="2000" height="1125" alt="slide-05" src="https://github.com/user-attachments/assets/786a8900-280b-48d0-8333-ce82bd19b037" />
-" width="100%" />
 <img width="2000" height="1125" alt="slide-06" src="https://github.com/user-attachments/assets/2462b6df-21fc-4a08-9d82-524cb6857a3d" />
-" width="100%" />
 <img width="2000" height="1125" alt="slide-07" src="https://github.com/user-attachments/assets/a80ed694-c398-4f75-9477-942c0ca8634f" />
-" width="100%" />
 
 </div>
